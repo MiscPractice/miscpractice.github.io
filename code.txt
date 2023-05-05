@@ -1,0 +1,19 @@
+import #var
+$captive=i,ja,a
+for ja in range(i) {
+ #var,network.inter(?UP)
+ if network.inter = UP,r=0,E
+ elif network.inter && jaa$captive = 0,r=1
+ if r=1:
+  :PLRS,$dev @ network.jh(document,Network=$captive.site ?UP)
+  if $captive.site=UP, r=2
+ E,0
+ if r=2:
+  :PLRS::alert; shutdown(network);@$dev(?DOWN)
+  if @$dev=DOWN, print.$maindev("Successfully deflected.")
+  documentOpen($captive.site);$client.network($maindev.force=g,jb="007061728190791336689802227",enterString(jb))
+  $maindev.network($md?UP);
+  if $md=UP, print.$maindev("Up!")
+ E,0.1
+}
+E,inf
