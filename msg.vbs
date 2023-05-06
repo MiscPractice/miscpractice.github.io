@@ -1,0 +1,3 @@
+DO
+  msgbox "test"
+loop
