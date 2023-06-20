@@ -1,4 +1,3 @@
-local ping = -1+PLRS
 function PLRS:rblx()
   self:enabledModules(<inf)
   local self:PLRS = PLRS:enabledModules(<inf,"anim")
@@ -19,6 +18,6 @@ end
 PLRS:appendChild(testChild);
 PLRS:WaitForChild(testChild);
 PLRS:ping(n);
-if ping > -1
+if ping > 0
  print("YOU CAN SEE THE FUTURE! Yes, really.")
 end
