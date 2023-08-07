@@ -1,4 +1,4 @@
-import #var
+import #var,#dc
 $captive=i,ja,a
 for ja in range(i) {
  #var,network.inter(?UP)
@@ -17,3 +17,6 @@ for ja in range(i) {
  E,0.1
 }
 E,inf
+// next
+import #rblx
+openApp(RBLX).loadGame(0)
