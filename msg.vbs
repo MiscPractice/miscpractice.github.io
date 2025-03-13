@@ -1,3 +1,0 @@
-DO
-  msgbox "test"
-loop
